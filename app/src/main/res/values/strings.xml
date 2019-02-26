@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBindingJavaDemo</string>
+    //fragment tags
+    <string name="view_product_fragment">View Product Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    //keys
+    <string name="intent_Item">intent_item</string>
+</resources>
