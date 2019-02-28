@@ -6,7 +6,7 @@
         <import type="java.util.List"/>
         <variable
             name="items"
-            type="List&lt;Item"/>
+            type="List&lt;Item>"/>
     </data>
 
     <RelativeLayout

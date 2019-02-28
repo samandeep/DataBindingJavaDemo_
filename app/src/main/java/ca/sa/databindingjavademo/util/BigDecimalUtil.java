@@ -15,7 +15,7 @@ public class BigDecimalUtil {
     /*
     * float value
     */
-    public static float getFloatVal(BigDecimal value){
+    public static float getFloat(BigDecimal value){
         return value.floatValue();
     }
 }
